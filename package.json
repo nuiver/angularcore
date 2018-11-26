@@ -1,0 +1,19 @@
+{
+  "name": "angularcore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nuiver/angularcore.git"
+  },
+  "author": "Mark Nuiver",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nuiver/angularcore/issues"
+  },
+  "homepage": "https://github.com/nuiver/angularcore#readme"
+}
