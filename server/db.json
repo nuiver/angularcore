@@ -1,0 +1,49 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "first_name": "Mark",
+      "last_name": "Nuiver",
+      "email": "mark@marknuiver.nl"
+    },
+    {
+      "id": 2,
+      "first_name": "Dirk",
+      "last_name": "Boom",
+      "email": "dirk@werktdaar.com"
+    },
+    {
+      "id": 3,
+      "first_name": "Anna",
+      "last_name": "Essel",
+      "email": "anna@esselcompany.com"
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "project_title": "Een huis bouwen",
+      "contact": 1
+    },
+    {
+      "id": 2,
+      "project_title": "Sla verbouwen",
+      "contact": 2
+    },
+    {
+      "id": 3,
+      "project_title": "Vrienden maken",
+      "contact": 1
+    },
+    {
+      "id": 4,
+      "project_title": "Pannekoeken bakken",
+      "contact": 1
+    },
+    {
+      "id": 5,
+      "project_title": "Leren vliegen",
+      "contact": 3
+    }
+  ]
+}
